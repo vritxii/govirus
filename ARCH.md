@@ -13,5 +13,6 @@ govirus
 - crypto: 信息(RSA)和文件(AES)加密
 - reedsolomon: rs code冗余(cgo isa-l)
 - compress: 文件压缩库
+- orm: 数据库操作
 - transaction: 交易记录生成与验证
 - ui: UI库
