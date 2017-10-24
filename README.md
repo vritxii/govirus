@@ -14,8 +14,8 @@ github.com/gen2brain/go-unarr: Go bindings for unarr (decompression library for 
 github.com/sbberk/golang-reedsolomon: RS code
 github.com/go-redis/redis： redis library
 github.com/syndtr/goleveldb/leveldb: leveldb in Go.
-github.com/rqlite/rqlite: distributed-Sqlite3
-github.com/smallnest/rpcx: A simple fast service discovery and governance rpc framework in go.
-github.com/emirpasic/gods: datastructurein go.
-github.com/samuel/go-zookeeper/zk
-github.com/snail007/goproxy: proxy
+- github.com/rqlite/rqlite: distributed-Sqlite3
+- github.com/smallnest/rpcx: A simple fast service discovery and governance rpc framework in go.
+- github.com/emirpasic/gods: datastructurein go.
+- github.com/samuel/go-zookeeper/zk
+- github.com/snail007/goproxy: proxy
