@@ -1,0 +1,16 @@
+govirus
+- proxy: 有公网ip的主机为内网主机代理
+- manager: 管理用户注册登陆，节点查询
+- storage: 负责将数据写入硬盘
+- ds: 数据结构定义
+- sync: 用于各个主机同步记录(raft)
+- bashboard: 提供一个主机前端管理
+- p2p: 节点间建立连接并通信，传输数据
+- cmd: 服务端和客户端实现
+- deps: 项目依赖包
+- data: 存放测试数据
+- blocks: 存放日志数据库
+- crypto: 信息(RSA)和文件(AES)加密
+- reedsolomon: rs code冗余(cgo isa-l)
+- transaction: 交易记录生成与验证
+- ui: UI库
