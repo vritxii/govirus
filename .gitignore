@@ -1,0 +1,7 @@
+/deps/
+/data/
+/ec/output/
+/ec/restore/
+/*.mp3
+/*.pem
+/rsa*
